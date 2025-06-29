@@ -1,5 +1,4 @@
-Hardware-Implementation-of-Lightweight-Block-Ciphers
-This repository contains Verilog RTL implementations of lightweight block ciphers designed for efficient hardware-based cryptography, targeting ASIC applications.
+#Hardware-Implementation-of-Lightweight-Block-Ciphers This repository contains Verilog RTL implementations of lightweight block ciphers designed for efficient hardware-based cryptography, targeting ASIC applications.
 
 The project specifically includes:
 
